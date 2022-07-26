@@ -1,0 +1,105 @@
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\bin\Debug\DAL.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\bin\Debug\dotNetRDF.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\bin\Debug\Entidades.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\bin\Debug\HtmlAgilityPack.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\bin\Debug\Newtonsoft.Json.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\bin\Debug\VDS.Common.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\bin\Debug\DAL.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\bin\Debug\Entidades.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\bin\Debug\dotNetRDF.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\bin\Debug\HtmlAgilityPack.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\bin\Debug\HtmlAgilityPack.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\bin\Debug\Newtonsoft.Json.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\bin\Debug\VDS.Common.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\bin\Debug\VDS.Common.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\DAL.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\dotNetRDF.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\Entidades.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\HtmlAgilityPack.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\Newtonsoft.Json.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\VDS.Common.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\DAL.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\Entidades.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\dotNetRDF.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\HtmlAgilityPack.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\HtmlAgilityPack.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\Newtonsoft.Json.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\VDS.Common.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\VDS.Common.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\DAL.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\dotNetRDF.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\Entidades.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\HtmlAgilityPack.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\Newtonsoft.Json.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\VDS.Common.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\DAL.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\Entidades.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\dotNetRDF.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\HtmlAgilityPack.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\HtmlAgilityPack.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\Newtonsoft.Json.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\VDS.Common.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\bin\Debug\VDS.Common.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\bin\Debug\DAL.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\bin\Debug\dotNetRDF.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\bin\Debug\Entidades.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\bin\Debug\HtmlAgilityPack.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\bin\Debug\Newtonsoft.Json.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\bin\Debug\VDS.Common.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\bin\Debug\DAL.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\bin\Debug\Entidades.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\bin\Debug\dotNetRDF.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\bin\Debug\HtmlAgilityPack.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\bin\Debug\HtmlAgilityPack.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\bin\Debug\Newtonsoft.Json.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\bin\Debug\VDS.Common.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\bin\Debug\VDS.Common.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\bin\Debug\DAL.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\bin\Debug\dotNetRDF.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\bin\Debug\Entidades.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\bin\Debug\VDS.Common.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\bin\Debug\DAL.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\bin\Debug\Entidades.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\bin\Debug\dotNetRDF.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\bin\Debug\VDS.Common.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\bin\Debug\VDS.Common.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\LogicaNegocio\obj\Debug\LogicaNegocio.pdb

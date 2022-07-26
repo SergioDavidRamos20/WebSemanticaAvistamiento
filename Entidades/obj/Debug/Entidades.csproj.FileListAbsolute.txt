@@ -1,0 +1,51 @@
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Entidades\bin\Debug\Entidades.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Entidades\bin\Debug\Entidades.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Entidades\bin\Debug\dotNetRDF.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Entidades\bin\Debug\HtmlAgilityPack.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Entidades\bin\Debug\Newtonsoft.Json.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Entidades\bin\Debug\VDS.Common.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Entidades\bin\Debug\dotNetRDF.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Entidades\bin\Debug\HtmlAgilityPack.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Entidades\bin\Debug\HtmlAgilityPack.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Entidades\bin\Debug\Newtonsoft.Json.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Entidades\bin\Debug\VDS.Common.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Entidades\bin\Debug\VDS.Common.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Entidades\obj\Debug\Entidades.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Entidades\obj\Debug\Entidades.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Entidades\bin\Debug\Entidades.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Entidades\bin\Debug\Entidades.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Entidades\bin\Debug\dotNetRDF.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Entidades\bin\Debug\HtmlAgilityPack.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Entidades\bin\Debug\Newtonsoft.Json.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Entidades\bin\Debug\VDS.Common.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Entidades\bin\Debug\dotNetRDF.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Entidades\bin\Debug\HtmlAgilityPack.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Entidades\bin\Debug\HtmlAgilityPack.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Entidades\bin\Debug\Newtonsoft.Json.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Entidades\bin\Debug\VDS.Common.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Entidades\bin\Debug\VDS.Common.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Entidades\obj\Debug\Entidades.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Entidades\bin\Debug\Entidades.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Entidades\bin\Debug\dotNetRDF.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Entidades\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Entidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Entidades\bin\Debug\VDS.Common.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Entidades\bin\Debug\dotNetRDF.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Entidades\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Entidades\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Entidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Entidades\bin\Debug\VDS.Common.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Entidades\bin\Debug\VDS.Common.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Entidades\obj\Debug\Entidades.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Entidades\obj\Debug\Entidades.pdb

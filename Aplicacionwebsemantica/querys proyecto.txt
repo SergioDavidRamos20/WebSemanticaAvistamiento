@@ -1,0 +1,105 @@
+1 traer todo
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT   ?subject ?predicate ?object 
+WHERE {
+ ?subject ?predicate ?object.
+  FILTER(REGEX(STR(?subject),"","i"))
+}
+
+
+
+2 traer solo clases con filtro
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT  ?subject     
+WHERE {
+  ?subject rdf:type owl:Class.
+  FILTER(regex(str(?subject),"","i"))
+}
+
+3 traer subclases con filtro
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT  ?subject ?object
+WHERE {
+  ?subject rdfs:subClassOf ?object
+  FILTER(regex(str(?subject),"","i"))
+}
+
+4
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+prefix data:<http://www.semanticweb.org/pc/ontologies/2022/1/untitled-ontology-9#>
+
+SELECT   ?Paciente ?AtendidoPor ?FechaIngreso ?Edad ?EstaUbicadoEn
+WHERE {
+   ?x data:NombrePaciente ?Paciente.
+   ?x data:AtendidoPor ?AtendidoPor.
+   ?x data:FechaIngreso ?FechaIngreso.
+   ?x data:Edad ?Edad.
+   ?x data:EstaUbicadoEn ?EstaUbicadoEn
+  
+}
+
+5
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX data: <http://www.semanticweb.org/pc/ontologies/2022/1/untitled-ontology-9#>
+
+SELECT  ?NombreHospital ?UbicacionHospital ?Medico
+WHERE {
+  ?x data:NombreHospital ?NombreHospital.
+  ?x data:UbicadoEn ?UbicacionHospital 
+  
+}
+
+6
+
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX data: <http://www.semanticweb.org/pc/ontologies/2022/1/untitled-ontology-9#>
+
+SELECT  ?NombreMedico  ?TrabajaEn  ?AtiendeA  
+WHERE {
+  ?x data:NombreMedico ?NombreMedico  
+  OPTIONAL{?x data:TrabajaEn ?TrabajaEn}
+  OPTIONAL { ?x data:AtiendeA ?AtiendeA }
+}
+
+7
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+prefix data:<http://www.semanticweb.org/pc/ontologies/2022/1/untitled-ontology-9#>
+
+SELECT   ?Paciente ?AtendidoPor ?FechaIngreso ?Edad ?EstaUbicadoEn ?EsAcompanadoPor
+WHERE {
+   ?x data:NombrePaciente ?Paciente.
+   ?x data:AtendidoPor ?AtendidoPor.
+   ?x data:FechaIngreso ?FechaIngreso.
+   ?x data:Edad ?Edad.
+   ?x data:EstaUbicadoEn ?EstaUbicadoEn.
+   OPTIONAL{?x data:EsAcompanadoPor ?EsAcompanadoPor}
+   
+}
+

@@ -1,0 +1,912 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#"
+     xml:base="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:untitled-ontology-33="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#AtendidoPor -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#AtendidoPor">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#AtiendeA"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Medico"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#AtiendeA -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#AtiendeA">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Medico"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#EsDiagnosticadoDe -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#EsDiagnosticadoDe">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Enfermedad"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#EsSintomaDe -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#EsSintomaDe">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#TieneSintoma"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Sintoma"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Enfermedad"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#EsTratamientoDe -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#EsTratamientoDe">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#SeTrataCon"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Tratamiento"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Enfermedad"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#EstaUbicadoEn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#EstaUbicadoEn">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Está"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ubicacion"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Está -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Está">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ubicacion"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#SeTrataCon -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#SeTrataCon">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Enfermedad"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Tratamiento"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#SituadoEn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#SituadoEn">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Hospital"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ciudad"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#TieneSintoma -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#TieneSintoma">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Enfermedad"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Sintoma"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Trabaja -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Trabaja">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#TrabajaEn"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Hospital"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Medico"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#TrabajaEn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#TrabajaEn">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Medico"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Hospital"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CodigoCiudad -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CodigoCiudad">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ciudad"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CodigoEnfermedad -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CodigoEnfermedad">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Enfermedad"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CodigoHospital -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CodigoHospital">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Hospital"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CodigoMedico -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CodigoMedico">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Medico"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CodigoPaciente -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CodigoPaciente">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CodigoSintoma -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CodigoSintoma">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Sintoma"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CodigoTratamiento -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CodigoTratamiento">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Tratamiento"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Edad -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Edad">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#FechaIngreso -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#FechaIngreso">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#NombreCiudad -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#NombreCiudad">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ciudad"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#NombreEnfermedad -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#NombreEnfermedad">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Enfermedad"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#NombreHospital -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#NombreHospital">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Hospital"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#NombreMedico -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#NombreMedico">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Medico"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#NombrePaciente -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#NombrePaciente">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#NombreSintoma -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#NombreSintoma">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Sintoma"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#NombreTratamiento -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#NombreTratamiento">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Tratamiento"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#NombreUbicacion -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#NombreUbicacion">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ubicacion"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Peso -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Peso">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ciudad -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ciudad"/>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Enfermedad -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Enfermedad"/>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Hospital -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Hospital"/>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Medico -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Medico">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Persona"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Persona"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Persona -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Persona"/>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Sintoma -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Sintoma"/>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Tratamiento -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Tratamiento"/>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ubicacion -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ubicacion"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#AlbertoBarrera -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#AlbertoBarrera">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Medico"/>
+        <TrabajaEn rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MariaInmaculada"/>
+        <CodigoMedico rdf:datatype="http://www.w3.org/2001/XMLSchema#int">01</CodigoMedico>
+        <NombreMedico rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alberto Barrera</NombreMedico>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#ArdorEstomacal -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#ArdorEstomacal">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Sintoma"/>
+        <NombreSintoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ardor estomacal</NombreSintoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Cali -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Cali">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ciudad"/>
+        <CodigoCiudad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">02</CodigoCiudad>
+        <NombreCiudad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cali</NombreCiudad>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Cancer -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Cancer">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Enfermedad"/>
+        <TieneSintoma rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Nauceas"/>
+        <CodigoEnfermedad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">01</CodigoEnfermedad>
+        <NombreEnfermedad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cancer</NombreEnfermedad>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CarlosHidalgo -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CarlosHidalgo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+        <AtendidoPor rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#JuanCarlosRojas"/>
+        <EsDiagnosticadoDe rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Gastritis"/>
+        <EstaUbicadoEn rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Urgencias"/>
+        <CodigoPaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#int">07</CodigoPaciente>
+        <Edad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</Edad>
+        <NombrePaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carlos Hidalgo</NombrePaciente>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CesarCadena -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CesarCadena">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Medico"/>
+        <TrabajaEn rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#RogelioSanchezSuazo"/>
+        <CodigoMedico rdf:datatype="http://www.w3.org/2001/XMLSchema#int">04</CodigoMedico>
+        <NombreMedico rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cesar Cadena</NombreMedico>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CesarJaramillo -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CesarJaramillo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Hospital"/>
+        <SituadoEn rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Cali"/>
+        <CodigoHospital rdf:datatype="http://www.w3.org/2001/XMLSchema#int">03</CodigoHospital>
+        <NombreHospital rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cesar Jaramillo</NombreHospital>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#DanielaMaeques -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#DanielaMaeques">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+        <AtendidoPor rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#JuanCarlosRojas"/>
+        <EsDiagnosticadoDe rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Diabetes"/>
+        <EstaUbicadoEn rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#UCI"/>
+        <CodigoPaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#int">09</CodigoPaciente>
+        <Edad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">34</Edad>
+        <NombrePaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Daniela Maeques</NombrePaciente>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Diabetes -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Diabetes">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Enfermedad"/>
+        <TieneSintoma rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#PocaSensibilidad"/>
+        <CodigoEnfermedad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">05</CodigoEnfermedad>
+        <NombreEnfermedad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diabetes</NombreEnfermedad>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Estornudadera -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Estornudadera">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Sintoma"/>
+        <NombreSintoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estornudadera</NombreSintoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#FabioUruena -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#FabioUruena">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+        <AtendidoPor rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MariaSanchez"/>
+        <EsDiagnosticadoDe rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Renitis"/>
+        <EstaUbicadoEn rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#SegundoPiso"/>
+        <CodigoPaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#int">03</CodigoPaciente>
+        <Edad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">43</Edad>
+        <NombrePaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fabio Urueña</NombrePaciente>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#FaiverRestrepo -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#FaiverRestrepo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+        <AtendidoPor rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#JuanCarlosRojas"/>
+        <EsDiagnosticadoDe rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Sinusitis"/>
+        <EstaUbicadoEn rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#UCI"/>
+        <CodigoPaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#int">04</CodigoPaciente>
+        <Edad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">60</Edad>
+        <NombrePaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Faiver Restrepo</NombrePaciente>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Fiebre -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Fiebre">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Sintoma"/>
+        <NombreSintoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fiebre</NombreSintoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Florencia -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Florencia">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ciudad"/>
+        <CodigoCiudad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">01</CodigoCiudad>
+        <NombreCiudad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Florencia</NombreCiudad>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Gastritis -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Gastritis">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Enfermedad"/>
+        <TieneSintoma rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#ArdorEstomacal"/>
+        <CodigoEnfermedad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">04</CodigoEnfermedad>
+        <NombreEnfermedad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gastritis</NombreEnfermedad>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Insulina -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Insulina">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Tratamiento"/>
+        <EsTratamientoDe rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Diabetes"/>
+        <CodigoTratamiento rdf:datatype="http://www.w3.org/2001/XMLSchema#int">02</CodigoTratamiento>
+        <NombreTratamiento rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Insulina</NombreTratamiento>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#JuanAlvarez -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#JuanAlvarez">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+        <AtendidoPor rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MariaSanchez"/>
+        <EsDiagnosticadoDe rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Sinusitis"/>
+        <EstaUbicadoEn rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#PrimerPiso"/>
+        <CodigoPaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#int">05</CodigoPaciente>
+        <Edad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</Edad>
+        <NombrePaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Juan Alvares</NombrePaciente>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#JuanCarlosRojas -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#JuanCarlosRojas">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Medico"/>
+        <TrabajaEn rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CesarJaramillo"/>
+        <CodigoMedico rdf:datatype="http://www.w3.org/2001/XMLSchema#int">03</CodigoMedico>
+        <NombreMedico rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Juan Carlos Rojas</NombreMedico>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#JuanMartinez -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#JuanMartinez">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+        <AtendidoPor rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#AlbertoBarrera"/>
+        <EsDiagnosticadoDe rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Cancer"/>
+        <EstaUbicadoEn rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#PrimerPiso"/>
+        <CodigoPaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#int">01</CodigoPaciente>
+        <Edad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</Edad>
+        <NombrePaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Juan Martrinez</NombrePaciente>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Las_Malvinas -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Las_Malvinas">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Hospital"/>
+        <SituadoEn rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Florencia"/>
+        <CodigoHospital rdf:datatype="http://www.w3.org/2001/XMLSchema#int">02</CodigoHospital>
+        <NombreHospital rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Las Malvinas</NombreHospital>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MariaInmaculada -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MariaInmaculada">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Hospital"/>
+        <SituadoEn rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Florencia"/>
+        <CodigoHospital rdf:datatype="http://www.w3.org/2001/XMLSchema#int">01</CodigoHospital>
+        <NombreHospital rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maria Inmaculada</NombreHospital>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MariaSanchez -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MariaSanchez">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Medico"/>
+        <TrabajaEn rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Las_Malvinas"/>
+        <CodigoMedico rdf:datatype="http://www.w3.org/2001/XMLSchema#int">02</CodigoMedico>
+        <NombreMedico rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maria Sanchez</NombreMedico>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MarioGalindez -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MarioGalindez">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+        <AtendidoPor rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#AlbertoBarrera"/>
+        <EsDiagnosticadoDe rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Renitis"/>
+        <EstaUbicadoEn rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#PrimerPiso"/>
+        <CodigoPaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#int">02</CodigoPaciente>
+        <Edad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">35</Edad>
+        <NombrePaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mario Galindez</NombrePaciente>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MatheusRajoy -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MatheusRajoy">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+        <AtendidoPor rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CesarCadena"/>
+        <EsDiagnosticadoDe rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Gastritis"/>
+        <EstaUbicadoEn rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#UCI"/>
+        <CodigoPaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#int">06</CodigoPaciente>
+        <Edad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">44</Edad>
+        <NombrePaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matheus rajoy</NombrePaciente>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MentaConJugoDeLimonCaliente -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MentaConJugoDeLimonCaliente">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Tratamiento"/>
+        <EsTratamientoDe rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Sinusitis"/>
+        <CodigoTratamiento rdf:datatype="http://www.w3.org/2001/XMLSchema#int">05</CodigoTratamiento>
+        <NombreTratamiento rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Menta con jugo de limon caliente</NombreTratamiento>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MielConLimon -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MielConLimon">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Tratamiento"/>
+        <EsTratamientoDe rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Renitis"/>
+        <CodigoTratamiento rdf:datatype="http://www.w3.org/2001/XMLSchema#int">01</CodigoTratamiento>
+        <NombreTratamiento rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miel con limo</NombreTratamiento>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MielConTeVerde -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MielConTeVerde">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Tratamiento"/>
+        <EsTratamientoDe rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Gastritis"/>
+        <CodigoTratamiento rdf:datatype="http://www.w3.org/2001/XMLSchema#int">04</CodigoTratamiento>
+        <NombreTratamiento rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miel con té verde</NombreTratamiento>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Nauceas -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Nauceas">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Sintoma"/>
+        <NombreSintoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nauceas</NombreSintoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Neiva -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Neiva">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ciudad"/>
+        <CodigoCiudad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">03</CodigoCiudad>
+        <NombreCiudad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neiva</NombreCiudad>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#PocaSensibilidad -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#PocaSensibilidad">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Sintoma"/>
+        <NombreSintoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Poca sensibilidad</NombreSintoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#PrimerPiso -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#PrimerPiso">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ubicacion"/>
+        <NombreUbicacion rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Primer Piso</NombreUbicacion>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Quimioterapia -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Quimioterapia">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Tratamiento"/>
+        <EsTratamientoDe rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Cancer"/>
+        <CodigoTratamiento rdf:datatype="http://www.w3.org/2001/XMLSchema#int">03</CodigoTratamiento>
+        <NombreTratamiento rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quimioterapia</NombreTratamiento>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Renitis -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Renitis">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Enfermedad"/>
+        <TieneSintoma rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Estornudadera"/>
+        <CodigoEnfermedad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">02</CodigoEnfermedad>
+        <NombreEnfermedad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renitis</NombreEnfermedad>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#RodrigoPerez -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#RodrigoPerez">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+        <AtendidoPor rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CesarCadena"/>
+        <EsDiagnosticadoDe rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Cancer"/>
+        <EstaUbicadoEn rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Urgencias"/>
+        <CodigoPaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</CodigoPaciente>
+        <Edad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">55</Edad>
+        <NombrePaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rodrigo Perez</NombrePaciente>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#RogelioSanchezSuazo -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#RogelioSanchezSuazo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Hospital"/>
+        <SituadoEn rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Neiva"/>
+        <CodigoHospital rdf:datatype="http://www.w3.org/2001/XMLSchema#int">04</CodigoHospital>
+        <NombreHospital rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rogelio Sanchez Suazo</NombreHospital>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#SandraGonzales -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#SandraGonzales">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Paciente"/>
+        <AtendidoPor rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MariaSanchez"/>
+        <EsDiagnosticadoDe rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Diabetes"/>
+        <EstaUbicadoEn rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#PrimerPiso"/>
+        <CodigoPaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#int">08</CodigoPaciente>
+        <Edad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</Edad>
+        <NombrePaciente rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sandra Gonzales</NombrePaciente>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#SegundoPiso -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#SegundoPiso">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ubicacion"/>
+        <NombreUbicacion rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Segundo Piso</NombreUbicacion>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Sinusitis -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Sinusitis">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Enfermedad"/>
+        <TieneSintoma rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Fiebre"/>
+        <CodigoEnfermedad rdf:datatype="http://www.w3.org/2001/XMLSchema#int">03</CodigoEnfermedad>
+        <NombreEnfermedad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sinusitis</NombreEnfermedad>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#UCI -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#UCI">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ubicacion"/>
+        <NombreUbicacion rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UCI</NombreUbicacion>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Urgencias -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Urgencias">
+        <rdf:type rdf:resource="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ubicacion"/>
+        <NombreUbicacion rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Urgencias</NombreUbicacion>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ciudad"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Enfermedad"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Hospital"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Persona"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Sintoma"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Tratamiento"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Ubicacion"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDifferent"/>
+        <owl:distinctMembers rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#AlbertoBarrera"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#ArdorEstomacal"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Cali"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Cancer"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CarlosHidalgo"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CesarCadena"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#CesarJaramillo"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#DanielaMaeques"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Diabetes"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Estornudadera"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#FabioUruena"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#FaiverRestrepo"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Fiebre"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Florencia"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Gastritis"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Insulina"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#JuanAlvarez"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#JuanCarlosRojas"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#JuanMartinez"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Las_Malvinas"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MariaInmaculada"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MariaSanchez"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MarioGalindez"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MatheusRajoy"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MentaConJugoDeLimonCaliente"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MielConLimon"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#MielConTeVerde"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Nauceas"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Neiva"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#PocaSensibilidad"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#PrimerPiso"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Quimioterapia"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Renitis"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#RodrigoPerez"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#RogelioSanchezSuazo"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#SandraGonzales"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#SegundoPiso"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Sinusitis"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#UCI"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/alberto/ontologies/2022/2/untitled-ontology-33#Urgencias"/>
+        </owl:distinctMembers>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

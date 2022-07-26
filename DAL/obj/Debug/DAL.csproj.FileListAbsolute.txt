@@ -1,0 +1,95 @@
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\bin\Debug\DAL.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\bin\Debug\DAL.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\bin\Debug\dotNetRDF.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\bin\Debug\Entidades.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\bin\Debug\HtmlAgilityPack.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\bin\Debug\VDS.Common.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\bin\Debug\Entidades.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\bin\Debug\dotNetRDF.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\bin\Debug\HtmlAgilityPack.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\bin\Debug\HtmlAgilityPack.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\bin\Debug\VDS.Common.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\bin\Debug\VDS.Common.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\obj\Debug\DAL.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\DAL\obj\Debug\DAL.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\DAL.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\DAL.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\dotNetRDF.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\Entidades.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\HtmlAgilityPack.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\VDS.Common.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\Entidades.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\dotNetRDF.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\HtmlAgilityPack.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\HtmlAgilityPack.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\VDS.Common.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\VDS.Common.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\obj\Debug\DAL.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\obj\Debug\DAL.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\obj\Debug\DAL.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\obj\Debug\DAL.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\DAL.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\DAL.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\dotNetRDF.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\Entidades.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\HtmlAgilityPack.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\VDS.Common.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\Entidades.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\dotNetRDF.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\HtmlAgilityPack.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\HtmlAgilityPack.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\VDS.Common.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\bin\Debug\VDS.Common.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\bin\Debug\DAL.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\bin\Debug\DAL.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\bin\Debug\dotNetRDF.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\bin\Debug\Entidades.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\bin\Debug\HtmlAgilityPack.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\bin\Debug\VDS.Common.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\bin\Debug\Entidades.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\bin\Debug\dotNetRDF.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\bin\Debug\HtmlAgilityPack.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\bin\Debug\HtmlAgilityPack.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\bin\Debug\VDS.Common.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\bin\Debug\VDS.Common.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\obj\Debug\DAL.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\DAL\obj\Debug\DAL.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\bin\Debug\DAL.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\bin\Debug\DAL.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\bin\Debug\dotNetRDF.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\bin\Debug\Entidades.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\bin\Debug\VDS.Common.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\bin\Debug\Entidades.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\bin\Debug\dotNetRDF.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\bin\Debug\VDS.Common.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\bin\Debug\VDS.Common.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\obj\Debug\DAL.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\DAL\obj\Debug\DAL.pdb

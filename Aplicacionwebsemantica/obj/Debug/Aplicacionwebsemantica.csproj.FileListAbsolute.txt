@@ -1,0 +1,600 @@
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\Aplicacionwebsemantica.dll.config
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\Aplicacionwebsemantica.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\Aplicacionwebsemantica.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\csc.exe
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\csc.exe.config
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\csc.rsp
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\csi.exe
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\csi.exe.config
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\csi.rsp
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\Microsoft.Managed.Core.targets
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.AppContext.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Collections.Immutable.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Console.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Globalization.Calendars.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.IO.Compression.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.IO.FileSystem.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Net.Http.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Net.Sockets.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Reflection.Metadata.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.ValueTuple.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Xml.XmlDocument.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Xml.XPath.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\vbc.exe
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\vbc.exe.config
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\vbc.rsp
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\VBCSCompiler.exe
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\roslyn\VBCSCompiler.exe.config
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\Antlr3.Runtime.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\Microsoft.Web.Infrastructure.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\Newtonsoft.Json.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\System.Web.Helpers.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\System.Web.Mvc.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\System.Web.Optimization.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\System.Web.Razor.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\System.Web.WebPages.Deployment.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\System.Web.WebPages.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\System.Web.WebPages.Razor.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\WebGrease.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\System.Web.Helpers.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\System.Web.Mvc.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\System.Web.Optimization.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\System.Web.Razor.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\System.Web.WebPages.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\System.Web.WebPages.Deployment.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\System.Web.WebPages.Razor.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\Newtonsoft.Json.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\Antlr3.Runtime.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\es\System.Web.Helpers.resources.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\es\System.Web.Mvc.resources.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\es\System.Web.Optimization.resources.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\es\System.Web.Razor.resources.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\es\System.Web.WebPages.resources.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.csprojAssemblyReference.cache
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.csproj.CoreCompileInputs.cache
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.csproj.CopyComplete
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\dotNetRDF.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\Entidades.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\HtmlAgilityPack.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\LogicaNegocio.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\VDS.Common.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\DAL.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\Entidades.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\LogicaNegocio.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\dotNetRDF.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\HtmlAgilityPack.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\HtmlAgilityPack.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\VDS.Common.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\VDS.Common.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Aplicacionwebsemantica\bin\DAL.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Aplicacionwebsemantica.dll.config
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Aplicacionwebsemantica.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Aplicacionwebsemantica.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\csc.exe
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\csc.exe.config
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\csc.rsp
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\csi.exe
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\csi.exe.config
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\csi.rsp
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.Managed.Core.targets
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.AppContext.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Collections.Immutable.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Console.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Globalization.Calendars.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.IO.Compression.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.IO.FileSystem.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Net.Http.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Net.Sockets.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Reflection.Metadata.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.ValueTuple.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Xml.XmlDocument.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Xml.XPath.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\vbc.exe
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\vbc.exe.config
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\vbc.rsp
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\VBCSCompiler.exe
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\VBCSCompiler.exe.config
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Antlr3.Runtime.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\dotNetRDF.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Entidades.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\HtmlAgilityPack.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\LogicaNegocio.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Microsoft.Web.Infrastructure.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Newtonsoft.Json.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.Helpers.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.Mvc.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.Optimization.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.Razor.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.WebPages.Deployment.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.WebPages.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.WebPages.Razor.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\VDS.Common.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\WebGrease.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\DAL.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Entidades.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\LogicaNegocio.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\dotNetRDF.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\HtmlAgilityPack.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\HtmlAgilityPack.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Newtonsoft.Json.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.Helpers.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.Mvc.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.Optimization.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.Razor.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.WebPages.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.WebPages.Deployment.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.WebPages.Razor.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\VDS.Common.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\VDS.Common.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Antlr3.Runtime.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\DAL.pdb
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\es\System.Web.Helpers.resources.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\es\System.Web.Mvc.resources.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\es\System.Web.Optimization.resources.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\es\System.Web.Razor.resources.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\es\System.Web.WebPages.resources.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.csprojAssemblyReference.cache
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.csproj.CoreCompileInputs.cache
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.csproj.CopyComplete
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.dll
+E:\SEMESTRE 9\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Aplicacionwebsemantica.dll.config
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Aplicacionwebsemantica.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Aplicacionwebsemantica.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\csc.exe
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\csc.exe.config
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\csc.rsp
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\csi.exe
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\csi.exe.config
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\csi.rsp
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.Managed.Core.targets
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.AppContext.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Collections.Immutable.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Console.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Globalization.Calendars.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.IO.Compression.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.IO.FileSystem.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Net.Http.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Net.Sockets.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Reflection.Metadata.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.ValueTuple.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Xml.XmlDocument.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Xml.XPath.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\vbc.exe
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\vbc.exe.config
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\vbc.rsp
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\VBCSCompiler.exe
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\roslyn\VBCSCompiler.exe.config
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Antlr3.Runtime.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\dotNetRDF.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Entidades.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\HtmlAgilityPack.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\LogicaNegocio.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Microsoft.Web.Infrastructure.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Newtonsoft.Json.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.Helpers.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.Mvc.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.Optimization.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.Razor.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.WebPages.Deployment.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.WebPages.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.WebPages.Razor.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\VDS.Common.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\WebGrease.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\DAL.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Entidades.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\LogicaNegocio.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\dotNetRDF.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\HtmlAgilityPack.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\HtmlAgilityPack.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Newtonsoft.Json.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.Helpers.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.Mvc.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.Optimization.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.Razor.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.WebPages.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.WebPages.Deployment.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\System.Web.WebPages.Razor.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\VDS.Common.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\VDS.Common.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Antlr3.Runtime.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\DAL.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\es\System.Web.Helpers.resources.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\es\System.Web.Mvc.resources.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\es\System.Web.Optimization.resources.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\es\System.Web.Razor.resources.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\es\System.Web.WebPages.resources.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.csprojAssemblyReference.cache
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.csproj.CoreCompileInputs.cache
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.csproj.CopyComplete
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\Aplicacionwebsemantica.dll.config
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\Aplicacionwebsemantica.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\Aplicacionwebsemantica.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\csc.exe
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\csc.exe.config
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\csc.rsp
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\csi.exe
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\csi.exe.config
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\csi.rsp
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.Managed.Core.targets
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.AppContext.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Collections.Immutable.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Console.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Globalization.Calendars.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.IO.Compression.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.IO.FileSystem.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Net.Http.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Net.Sockets.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Reflection.Metadata.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.ValueTuple.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Xml.XmlDocument.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Xml.XPath.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\vbc.exe
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\vbc.exe.config
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\vbc.rsp
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\VBCSCompiler.exe
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\roslyn\VBCSCompiler.exe.config
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\Antlr3.Runtime.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\dotNetRDF.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\Entidades.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\HtmlAgilityPack.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\LogicaNegocio.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\Microsoft.Web.Infrastructure.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\Newtonsoft.Json.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Helpers.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Mvc.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Optimization.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Razor.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\System.Web.WebPages.Deployment.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\System.Web.WebPages.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\System.Web.WebPages.Razor.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\VDS.Common.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\WebGrease.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\DAL.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\Entidades.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\LogicaNegocio.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\dotNetRDF.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\HtmlAgilityPack.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\HtmlAgilityPack.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\Newtonsoft.Json.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Helpers.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Mvc.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Optimization.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Razor.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\System.Web.WebPages.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\System.Web.WebPages.Deployment.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\System.Web.WebPages.Razor.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\VDS.Common.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\VDS.Common.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\Antlr3.Runtime.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\DAL.pdb
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.Helpers.resources.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.Mvc.resources.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.Optimization.resources.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.Razor.resources.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.WebPages.resources.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.csprojAssemblyReference.cache
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.csproj.CoreCompileInputs.cache
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.csproj.CopyComplete
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.dll
+E:\SEMESTRE\Gestion del conocimiento\Aplicacion web semantica exposicion\Proyecto final\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\Aplicacionwebsemantica.dll.config
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\Aplicacionwebsemantica.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\Aplicacionwebsemantica.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\csc.exe
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\csc.exe.config
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\csc.rsp
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\csi.exe
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\csi.exe.config
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\csi.rsp
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.AppContext.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Console.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Net.Http.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\vbc.exe
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\vbc.exe.config
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\vbc.rsp
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\Antlr3.Runtime.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\dotNetRDF.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\Entidades.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\HtmlAgilityPack.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\LogicaNegocio.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\Newtonsoft.Json.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Helpers.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Mvc.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Optimization.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Razor.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\System.Web.WebPages.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\VDS.Common.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\WebGrease.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\DAL.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\Entidades.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\LogicaNegocio.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\dotNetRDF.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\HtmlAgilityPack.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\HtmlAgilityPack.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\Newtonsoft.Json.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Helpers.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Mvc.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Optimization.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Razor.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\System.Web.WebPages.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\VDS.Common.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\VDS.Common.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\Antlr3.Runtime.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\DAL.pdb
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.Razor.resources.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.csproj.AssemblyReference.cache
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.csproj.CopyComplete
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.dll
+C:\Users\Sergio Ramos\Desktop\f\Proyecto final\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.pdb
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\Aplicacionwebsemantica.dll.config
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\Aplicacionwebsemantica.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\Aplicacionwebsemantica.pdb
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\csc.exe
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\csc.exe.config
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\csc.rsp
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\csi.exe
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\csi.exe.config
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\csi.rsp
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.AppContext.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Console.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Net.Http.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\vbc.exe
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\vbc.exe.config
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\vbc.rsp
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\Antlr3.Runtime.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\dotNetRDF.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\Entidades.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\HtmlAgilityPack.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\LogicaNegocio.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\Newtonsoft.Json.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Helpers.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Mvc.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Optimization.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Razor.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\System.Web.WebPages.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\VDS.Common.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\WebGrease.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\DAL.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\Entidades.pdb
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\LogicaNegocio.pdb
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\dotNetRDF.xml
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\HtmlAgilityPack.pdb
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\HtmlAgilityPack.xml
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\Newtonsoft.Json.xml
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Helpers.xml
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Mvc.xml
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Optimization.xml
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\System.Web.Razor.xml
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\System.Web.WebPages.xml
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\VDS.Common.pdb
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\VDS.Common.xml
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\Antlr3.Runtime.pdb
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\DAL.pdb
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.Razor.resources.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.csproj.AssemblyReference.cache
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.csproj.CopyComplete
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.dll
+C:\Users\Sergio Ramos\Pictures\Proyecto final\Aplicacionwebsemantica\obj\Debug\Aplicacionwebsemantica.pdb
